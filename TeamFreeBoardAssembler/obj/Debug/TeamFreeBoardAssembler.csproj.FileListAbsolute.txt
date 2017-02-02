@@ -1,0 +1,28 @@
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.exe.config
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.exe
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.pdb
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.csprojResolveAssemblyReference.cache
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\MainWindow.g.cs
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\App.g.cs
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler_MarkupCompile.cache
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler_MarkupCompile.lref
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\MainWindow.baml
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.g.resources
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.Properties.Resources.resources
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.csproj.GenerateResource.Cache
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.exe
+c:\users\dusty\documents\visual studio 2015\Projects\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.pdb
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.exe.config
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.exe
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.pdb
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.exe
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\bin\Debug\TeamFreeBoardAssembler.pdb
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.csprojResolveAssemblyReference.cache
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\MainWindow.g.cs
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\App.g.cs
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler_MarkupCompile.cache
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler_MarkupCompile.lref
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\MainWindow.baml
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.g.resources
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.Properties.Resources.resources
+C:\Users\dusty\Documents\ece-3710\TeamFreeBoardAssembler\TeamFreeBoardAssembler\obj\Debug\TeamFreeBoardAssembler.csproj.GenerateResource.Cache
